@@ -1,4 +1,15 @@
-
+<p>
+    Re So So Si Do Si La
+</p>
+<p>
+  So La Si Si Si Si La Si La So
+</p> 
+<p>
+  *.　　°　　　　️·　　　　🛸　　　 　🌏　°　　🌓　•　　.°•　　　 ✯✯
+　　　★　*°　　　　🛰　°·　　
+.　　　•　°★　•
+▁▂▃▄▅▆▇▇▆▅▄▃▁▂▃.​
+</p>
 <p align=left>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmirZhang&layout=compact&theme=merko" alt="GitHub stats" />
