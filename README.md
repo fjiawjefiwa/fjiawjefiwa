@@ -1,10 +1,13 @@
-<strong>
-    Re So So Si Do Si La
-</strong>
-<strong>
-  So La Si Si Si Si La Si La So
-</strong> 
 <p>
+    <strong>
+        Re So So Si Do Si La
+    </strong>
+</p>
+<p>
+    <strong>
+        So La Si Si Si Si La Si La So
+    </strong>
+</p>
   *.　　°　　　　️·　　　　🛸　　　 　🌏　°　　🌓　•　　.°•　　　 ✯✯
 　　　★　*°　　　　🛰　°·　　
 .　　　•　°★　•
