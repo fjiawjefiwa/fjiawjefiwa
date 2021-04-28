@@ -1,7 +1,7 @@
 <>
   <p align=left>
     <a href="https://stackoverflow.com/">
-      <img src="https://stackoverflow.com" />
+      <img src="https://commons.wikimedia.org/wiki/File:Stack_Overflow_icon.svg" />
     </a>
   </p>
   <p align=left>
