@@ -1,9 +1,9 @@
-<p>
+<strong>
     Re So So Si Do Si La
-</p>
-<p>
+</strong>
+<strong>
   So La Si Si Si Si La Si La So
-</p> 
+</strong> 
 <p>
   *.　　°　　　　️·　　　　🛸　　　 　🌏　°　　🌓　•　　.°•　　　 ✯✯
 　　　★　*°　　　　🛰　°·　　
